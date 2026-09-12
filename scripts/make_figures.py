@@ -43,7 +43,12 @@ def main() -> None:
     ]
 
     for path in written:
-        print(f"wrote {path.relative_to(Path.cwd()) if path.is_absolute() else path}")
+        try:
+            display = path.relative_to(Path.cwd())
+        except ValueError:
+            # Output directory outside the repo, e.g. a CI temp dir.
+            display = path
+        print(f"wrote {display}")
 
 
 if __name__ == "__main__":
