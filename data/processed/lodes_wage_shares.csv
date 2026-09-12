@@ -1,0 +1,5 @@
+basis,group,total_jobs,ce01_share_low_wage,ce02_share_mid_wage,ce03_share_high_wage
+residence,ENG corridor residents,116347,0.134,0.215,0.651
+residence,Rest of Massachusetts residents,3040664,0.123,0.197,0.680
+workplace,Jobs located in ENG corridor,187509,0.158,0.159,0.683
+workplace,Jobs located outside ENG corridor,3380080,0.165,0.205,0.630

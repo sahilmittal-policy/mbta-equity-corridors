@@ -1,0 +1,11 @@
+cns_code,sector_name,corridor_jobs,rest_of_ma_jobs,corridor_share,rest_share
+CNS16,Health Care & Social Assistance,23698,501686,0.204,0.165
+CNS15,Education Services,16964,325003,0.146,0.107
+CNS12,"Professional, Scientific & Technical Services",14636,330639,0.126,0.109
+CNS18,Accommodation & Food Services,9134,217834,0.079,0.072
+CNS07,Retail Trade,8991,287645,0.077,0.095
+CNS14,"Admin & Support, Waste Mgmt & Remediation",6713,152629,0.058,0.050
+CNS10,Finance & Insurance,5694,155122,0.049,0.051
+CNS20,Public Administration,4683,130343,0.040,0.043
+CNS19,Other Services (excl. Public Admin),4060,94094,0.035,0.031
+CNS09,Information,3834,92691,0.033,0.030

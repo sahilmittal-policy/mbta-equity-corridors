@@ -1,0 +1,56 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eng-corridors"
+version = "1.0.0"
+description = "Equitable Network Growth corridor analysis for the MBTA bus network"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "Anushri Gade" },
+    { name = "Rahul Tejannavar" },
+    { name = "Sahil Mittal" },
+]
+keywords = ["transit", "equity", "mbta", "policy-analysis", "cost-benefit"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "License :: OSI Approved :: MIT License",
+]
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "matplotlib>=3.7",
+]
+
+[project.optional-dependencies]
+geo = ["geopandas>=0.14", "shapely>=2.0", "pyogrio>=0.7"]
+dev = ["pytest>=7.4", "ruff>=0.4", "jupyter>=1.0"]
+
+[project.urls]
+Repository = "https://github.com/sahilmittal-policy/mbta-equity-corridors"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.ruff.lint.per-file-ignores]
+# This file holds notebook cell source as string literals; wrapping them would
+# change the notebook's rendered output.
+"scripts/build_notebook.py" = ["E501"]
+"scripts/_bootstrap.py" = ["E402"]
+"scripts/*.py" = ["E402"]

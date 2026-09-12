@@ -1,0 +1,4 @@
+# Core: enough to run the fiscal model, the tests and every figure.
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7

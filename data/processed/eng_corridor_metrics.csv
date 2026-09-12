@@ -1,0 +1,4 @@
+route_id,corridor_role,tdi,avg_weekday_boardings,equity_volume_score,avg_peak_runtime_min,avg_trip_runtime_min,avg_trips_per_weekday,rev_hours_per_weekday,otp_peak,otp_offpeak,share_near_rail,fare_free_2025
+28,Blue Hill Ave / Warren St spine,3.00,12394.4,37147.0,40.38,41.10,192.54,131.89,0.764,0.782,0.431,TRUE
+23,Blue Hill Ave / Warren St spine,2.98,11273.4,33608.8,35.39,36.04,205.53,123.47,0.775,0.802,0.502,TRUE
+66,Allston-Brookline-Roxbury crosstown,2.48,11348.8,28156.5,48.66,48.94,208.75,170.29,0.723,0.707,0.595,FALSE

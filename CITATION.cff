@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: >-
+  Building an Equitable Network Growth (ENG) Corridor on MBTA Bus
+  Routes 23, 28 and 66
+message: If you use this analysis, please cite it as below.
+type: software
+authors:
+  - given-names: Anushri
+    family-names: Gade
+  - given-names: Rahul
+    family-names: Tejannavar
+  - given-names: Sahil
+    family-names: Mittal
+repository-code: "https://github.com/sahilmittal-policy/mbta-equity-corridors"
+abstract: >-
+  A data-driven case for targeted bus-priority investment on the three
+  highest equity-volume corridors in the MBTA bus network. Builds a
+  Transit Dependence Index from census demographics within route
+  catchments, ranks routes by transit dependence weighted by ridership,
+  measures the resulting service deficit from observed runtimes and
+  on-time performance, and prices a quick-build bus-priority package
+  that pays back in under two years. Second place, MIT Policy Hackathon
+  2025 (Transportation track).
+keywords:
+  - transit equity
+  - public transportation
+  - bus priority
+  - cost-benefit analysis
+  - MBTA
+  - policy analysis
+license: MIT
+date-released: "2025-11-23"

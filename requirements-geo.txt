@@ -1,0 +1,5 @@
+# Only needed to re-run the spatial pipeline (scripts/01) against raw geodata.
+-r requirements.txt
+geopandas>=0.14
+shapely>=2.0
+pyogrio>=0.7

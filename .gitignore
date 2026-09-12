@@ -1,0 +1,24 @@
+# Raw challenge data is not redistributed. See data/README.md.
+data/raw/*
+!data/raw/.gitkeep
+
+# Rebuild outputs sit alongside the submitted results; don't commit them.
+data/processed/*_rebuilt.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
