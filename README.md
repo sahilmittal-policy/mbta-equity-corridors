@@ -31,7 +31,43 @@ Three routes — **28, 23 and 66** — rank first, second and third out of the
 are also among the slowest and least reliable routes in the system. That
 coincidence is the whole argument.
 
-📄 [**Policy memo**](docs/policy-memo.md) · 📊 [**Slides**](docs/slides/TartanSparks-MIT-Policy-Hackathon-2025.pdf) · 📈 [**Full results**](docs/results.md) · 🔬 [**Methodology**](docs/methodology.md)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [The policy memo](docs/policy-memo.md)
+
+The full submitted memo — recommendations, the index definitions, the fiscal
+case, and both appendix tables. Renders in the browser, no download.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [The deck](docs/slides/)
+
+All nine slides as presented to the judging panel, with a note on each.
+Original PDF alongside.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [Full results](docs/results.md)
+
+Every table and figure the analysis produced, in one place.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 [Methodology](docs/methodology.md)
+
+How the corridor was chosen and how the fiscal case was built — including what
+the indices get wrong.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -116,6 +152,25 @@ work at more than 12,000 distinct workplace blocks.
 Most riders are passing through to somewhere else, usually via a rail transfer.
 Speeding up these three buses improves job access far beyond the three corridors
 themselves.
+
+---
+
+## What we presented
+
+<a href="docs/slides/"><img src="docs/slides/png/slide-01.png" alt="Title slide: Fixing Boston's Busiest Equity Corridors" width="100%"></a>
+
+Eight minutes, nine slides, in front of a judging panel at the end of a very long
+weekend.
+
+<table>
+<tr>
+<td width="33%"><a href="docs/slides/#2--why-these-corridors-matter"><img src="docs/slides/png/slide-02.png" alt="Why these corridors matter"></a></td>
+<td width="33%"><a href="docs/slides/#3--how-we-identified-them"><img src="docs/slides/png/slide-03.png" alt="How we identified equity corridors"></a></td>
+<td width="33%"><a href="docs/slides/#7--what-it-returns"><img src="docs/slides/png/slide-07.png" alt="Fiscal case"></a></td>
+</tr>
+</table>
+
+📊 [**See all nine slides**](docs/slides/) · 📥 [Download the PDF](docs/slides/TartanSparks-MIT-Policy-Hackathon-2025.pdf) · 📄 [Read the memo](docs/policy-memo.md)
 
 ---
 
