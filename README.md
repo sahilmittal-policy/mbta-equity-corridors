@@ -71,6 +71,25 @@ the indices get wrong.
 
 ---
 
+## What we presented
+
+<a href="docs/slides/"><img src="docs/slides/png/slide-01.png" alt="Title slide: Fixing Boston's Busiest Equity Corridors" width="100%"></a>
+
+Eight minutes, nine slides, in front of a judging panel at the end of a very long
+weekend.
+
+<table>
+<tr>
+<td width="33%"><a href="docs/slides/#2--why-these-corridors-matter"><img src="docs/slides/png/slide-02.png" alt="Why these corridors matter"></a></td>
+<td width="33%"><a href="docs/slides/#3--how-we-identified-them"><img src="docs/slides/png/slide-03.png" alt="How we identified equity corridors"></a></td>
+<td width="33%"><a href="docs/slides/#7--what-it-returns"><img src="docs/slides/png/slide-07.png" alt="Fiscal case"></a></td>
+</tr>
+</table>
+
+📊 [**See all nine slides**](docs/slides/) · 📥 [Download the PDF](docs/slides/TartanSparks-MIT-Policy-Hackathon-2025.pdf) · 📄 [Read the memo](docs/policy-memo.md)
+
+---
+
 ## The finding
 
 ![Equity volume scatter](figures/fig02_equity_volume_scatter.png)
@@ -152,25 +171,6 @@ work at more than 12,000 distinct workplace blocks.
 Most riders are passing through to somewhere else, usually via a rail transfer.
 Speeding up these three buses improves job access far beyond the three corridors
 themselves.
-
----
-
-## What we presented
-
-<a href="docs/slides/"><img src="docs/slides/png/slide-01.png" alt="Title slide: Fixing Boston's Busiest Equity Corridors" width="100%"></a>
-
-Eight minutes, nine slides, in front of a judging panel at the end of a very long
-weekend.
-
-<table>
-<tr>
-<td width="33%"><a href="docs/slides/#2--why-these-corridors-matter"><img src="docs/slides/png/slide-02.png" alt="Why these corridors matter"></a></td>
-<td width="33%"><a href="docs/slides/#3--how-we-identified-them"><img src="docs/slides/png/slide-03.png" alt="How we identified equity corridors"></a></td>
-<td width="33%"><a href="docs/slides/#7--what-it-returns"><img src="docs/slides/png/slide-07.png" alt="Fiscal case"></a></td>
-</tr>
-</table>
-
-📊 [**See all nine slides**](docs/slides/) · 📥 [Download the PDF](docs/slides/TartanSparks-MIT-Policy-Hackathon-2025.pdf) · 📄 [Read the memo](docs/policy-memo.md)
 
 ---
 
